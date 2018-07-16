@@ -1,0 +1,13 @@
+{
+  "name": "console-swag",
+  "version": "1.0.0",
+  "description": "CSS Library for the console object.",
+  "main": "consoleSwag.js",
+  "scripts": {
+    "test": "node consoleSwag.test.js",
+    "prepublish": "npm run test"
+  },
+  "keywords": ["console", "css"],
+  "author": "Sasch Ringström",
+  "license": "MIT"
+}
